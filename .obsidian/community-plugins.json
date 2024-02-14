@@ -10,5 +10,10 @@
   "obsidian-dictionary-plugin",
   "cmenu-plugin",
   "quick-latex",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-filename-heading-sync",
+  "obsidian-annotator",
+  "obsidian-discordrpc",
+  "emoji-shortcodes",
+  "templater-obsidian"
 ]

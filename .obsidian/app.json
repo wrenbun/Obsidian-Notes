@@ -3,5 +3,6 @@
   "propertiesInDocument": "source",
   "showLineNumber": true,
   "alwaysUpdateLinks": false,
-  "livePreview": false
+  "livePreview": false,
+  "showInlineTitle": false
 }
