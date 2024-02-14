@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9aaee72a15c9269f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cc1548252fc1f697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "201 Honors Precalculus/index.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "ae65781391a8306b"
-          }
-        ]
-      },
-      {
         "id": "065d85fd1ab9b1eb",
         "type": "tabs",
         "children": [
@@ -33,11 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "201 Honors Precalculus/index.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "77739bd89320b125"
+          }
+        ]
+      },
+      {
+        "id": "21ec193960117904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07bf0af927a2db2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "201 Honors Precalculus/index.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "ae65781391a8306b"
+            "group": "77739bd89320b125"
           }
         ]
       }
@@ -202,10 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc1548252fc1f697",
+  "active": "07bf0af927a2db2a",
   "lastOpenFiles": [
-    "index.md",
     "201 Honors Precalculus/index.md",
+    "index.md",
     "301 IB English HL 11/index.md",
     "101 IB Biology SL 11/index.md",
     "901 Blog/Implement Quartz.md",

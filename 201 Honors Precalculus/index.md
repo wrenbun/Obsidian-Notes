@@ -5,7 +5,7 @@ tags:
   - map
   - math/precalc
 date: 2024-02-13 23:21
-updated: 2024-02-14T16:05:31-06:00
+updated: 2024-02-14T16:37:58-06:00
 ---
 
 # About this course
@@ -63,9 +63,6 @@ SORT file.name ASC
 ## Unit 4: Graphs of Trigonometric Functions
 
 This relates to **Chapter 6** of the textbook.
-
-> [!todo]
-> Notes for this unit will be done soon.
 
 ```dataview
 table tags as "Tags"
