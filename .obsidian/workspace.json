@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/index.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "ae65781391a8306b"
+          }
+        ]
+      },
+      {
+        "id": "065d85fd1ab9b1eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34891f47dee0374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "201 Honors Precalculus/index.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "ae65781391a8306b"
           }
         ]
       }
@@ -87,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "50f3ca14904966fc",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "201 Honors Precalculus/index.md"
               }
             }
           }
@@ -139,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cc1548252fc1f697",
+  "active": "e34891f47dee0374",
   "lastOpenFiles": [
+    "index.md",
     "201 Honors Precalculus/index.md",
     "301 IB English HL 11/index.md",
-    "index.md",
     "101 IB Biology SL 11/index.md",
     "901 Blog/Implement Quartz.md",
     "000 Components/Templates/General Note Template.md",
