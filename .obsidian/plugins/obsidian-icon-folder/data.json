@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiQuestionLine",
-      "LiLayoutTemplate",
-      "👋",
-      "LiMap",
-      "LiFileCog"
+      "RiFlaskLine",
+      "RiFlaskFill",
+      "LiMicroscope",
+      "LiCalculator",
+      "CoChartBarVertical01"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,8 +28,13 @@
     "iconIdentifier": ":"
   },
   "000. Components": "LiFileCog",
-  "Welcome.md": "👋",
   "001. Maps": "LiMap",
   "000. Components/Templates": "LiLayoutTemplate",
-  "000. Components/Wait how did I": "RiQuestionLine"
+  "901. Wait how did I": "RiQuestionLine",
+  "301. IB English HL 11": "LiBookKey",
+  "202. AP Calculus": "CoChartBarVertical01",
+  "201. Honors Precalculus": "LiCalculator",
+  "102. IB Chemistry SL 12": "LiMicroscope",
+  "101. IB Biology SL 11": "RiFlaskLine",
+  "index.md": "👋"
 }

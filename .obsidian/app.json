@@ -5,5 +5,5 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "showInlineTitle": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }

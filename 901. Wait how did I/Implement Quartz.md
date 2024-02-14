@@ -3,7 +3,7 @@ title: Quartz Implementation
 draft: true
 tags: quartz, vault
 created: 2024-02-14 00:00
-updated: 
+updated: 2024-02-14T07:42:41-06:00
 ---
 
 # Objective
@@ -18,3 +18,7 @@ This vault is in a [separate repository](https://github.com/kaedekaneko/Obsidian
 ### **Attempt 1:** Git Submodules
 
 I will attempt to submodule the code I have. This will be a great option for controlling quartz versions vs. the versions of my documents!
+
+## Resources
+
+I found an [article by Brandon Boswell](https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/) on how to do precisely this...

@@ -3,7 +3,7 @@ title: Welcome
 draft: true
 tags: 
 created: 2024-02-13T20:20:14-06:00
-updated: 2024-02-13T23:26:21-06:00
+updated: 2024-02-14T09:20:20-06:00
 ---
 
 > [!summary] About this vault/site
@@ -12,7 +12,12 @@ updated: 2024-02-13T23:26:21-06:00
 > Her mindset focuses on making topics **understandable**, to a  **low level of abstraction**, in order to not only gain a deeper understanding of concepts herself, but to help others who need to understand topics better to a deeper understanding. 
 
 # About Me
+
+Hi!
+
 #todo
+
+---
 
 # Courses
 
@@ -33,3 +38,9 @@ Find quick access to some major topics I cover below.
 ## English
 
 - 🔗 [[English IB HL 11|IB English 12 ABC HL]]
+
+---
+
+# Most Recent Notes
+
+#todo
