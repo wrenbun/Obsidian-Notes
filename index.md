@@ -1,6 +1,6 @@
 ---
 title: Welcome
-draft: true
+draft: false
 tags: 
 created: 2024-02-13T20:20:14-06:00
 updated: 2024-02-14T09:20:20-06:00

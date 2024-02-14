@@ -1,6 +1,6 @@
 ---
 title: Honors Precalculus
-draft: true
+draft: false
 tags:
   - map
   - math/precalc
