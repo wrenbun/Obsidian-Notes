@@ -4,8 +4,8 @@ draft: false
 tags:
   - quartz
   - vault
-created: 2024-02-14 00:00
-updated: 2024-02-14T07:42:41-06:00
+date: 2024-02-14 00:00
+updated: 2024-02-14T10:25:15-06:00
 ---
 
 # Objective

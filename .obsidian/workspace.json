@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4c2e4d075ecc5b",
+        "id": "9aaee72a15c9269f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0a9e9b6631114f",
+            "id": "cc1548252fc1f697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000. Components/Templates/General Note Template.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000. Components/Templates/General Note Template.md"
+                "file": "index.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000. Components/Templates/General Note Template.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000. Components/Templates/General Note Template.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,21 +181,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae0a9e9b6631114f",
+  "active": "cc1548252fc1f697",
   "lastOpenFiles": [
-    "001. Maps/Precalculus Honors.md",
-    "001. Maps/English IB HL 11.md",
-    "001. Maps/Biology IB SL 11.md",
-    "901. Wait how did I/Implement Quartz.md",
+    "301. IB English HL 11/index.md",
     "index.md",
-    "LICENSE",
+    "101. IB Biology SL 11/index.md",
+    "901. Blog/Implement Quartz.md",
+    "201. Honors Precalculus/index.md",
     "000. Components/Templates/General Note Template.md",
+    "LICENSE",
     "301. IB English HL 11",
     "202. AP Calculus",
     "201. Honors Precalculus",
     "102. IB Chemistry SL 12",
     "101. IB Biology SL 11",
-    "901. Wait how did I",
+    "901. Blog",
     "000. Components/Templates",
     "000. Components/Templates",
     "001. Maps"

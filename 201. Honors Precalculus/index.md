@@ -4,8 +4,8 @@ draft: false
 tags:
   - map
   - math/precalc
-created: 2024-02-13 23:21
-updated: 2024-02-13T23:40:48-06:00
+date: 2024-02-13 23:21
+updated: 2024-02-14T10:30:57-06:00
 ---
 
 # About this course
