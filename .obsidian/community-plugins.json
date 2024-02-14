@@ -11,9 +11,9 @@
   "cmenu-plugin",
   "quick-latex",
   "obsidian-style-settings",
-  "obsidian-filename-heading-sync",
   "obsidian-annotator",
   "obsidian-discordrpc",
   "emoji-shortcodes",
-  "templater-obsidian"
+  "templater-obsidian",
+  "frontmatter-modified-date"
 ]

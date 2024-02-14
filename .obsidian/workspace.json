@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000. Using this vault.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "48bb6486fec813eb"
+          }
+        ]
+      },
+      {
+        "id": "e05484976ef64936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caddf1b115ccfaec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "48bb6486fec813eb"
           }
         ]
       }
@@ -103,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000. Using this vault.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -139,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000. Using this vault.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,13 +176,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000. Using this vault.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,12 +198,16 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b07f448e957ca8d5",
   "lastOpenFiles": [
-    "000. Using this vault.md",
+    "000. Components/Untitled",
+    "001. Maps",
+    "000. Components",
+    "Welcome.md",
     "Welcome.md"
   ]
 }

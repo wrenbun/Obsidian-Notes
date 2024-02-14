@@ -3,9 +3,14 @@
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "👋",
+      "LiMap",
+      "LiFileCog",
+      "RiToolsFill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,5 +25,8 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "000. Components": "LiFileCog",
+  "Welcome.md": "👋",
+  "001. Maps": "LiMap"
 }

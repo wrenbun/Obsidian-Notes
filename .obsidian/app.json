@@ -1,8 +1,9 @@
 {
   "defaultViewMode": "preview",
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "showLineNumber": true,
   "alwaysUpdateLinks": false,
   "livePreview": false,
-  "showInlineTitle": false
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true
 }
