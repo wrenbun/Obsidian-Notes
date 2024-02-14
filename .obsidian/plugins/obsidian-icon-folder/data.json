@@ -6,10 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiQuestionLine",
+      "LiLayoutTemplate",
       "👋",
       "LiMap",
-      "LiFileCog",
-      "RiToolsFill"
+      "LiFileCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +29,7 @@
   },
   "000. Components": "LiFileCog",
   "Welcome.md": "👋",
-  "001. Maps": "LiMap"
+  "001. Maps": "LiMap",
+  "000. Components/Templates": "LiLayoutTemplate",
+  "000. Components/Wait how did I": "RiQuestionLine"
 }

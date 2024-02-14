@@ -2,7 +2,7 @@
   "defaultViewMode": "preview",
   "propertiesInDocument": "visible",
   "showLineNumber": true,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "livePreview": false,
   "showInlineTitle": true,
   "showUnsupportedFiles": true

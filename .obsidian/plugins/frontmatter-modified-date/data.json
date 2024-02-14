@@ -1,7 +1,9 @@
 {
   "frontmatterProperty": "updated",
   "momentFormat": "",
-  "excludedFolders": [],
+  "excludedFolders": [
+    "000. Components"
+  ],
   "useKeyupEvents": true,
   "onlyUpdateExisting": false,
   "timeout": 10,

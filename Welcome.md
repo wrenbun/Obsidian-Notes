@@ -3,7 +3,7 @@ title: Welcome
 draft: true
 tags: 
 created: 2024-02-13T20:20:14-06:00
-updated: 2024-02-13T23:00:06-06:00
+updated: 2024-02-13T23:26:21-06:00
 ---
 
 > [!summary] About this vault/site
@@ -18,20 +18,18 @@ updated: 2024-02-13T23:00:06-06:00
 
 Find quick access to some major topics I cover below.
 
-> [!warning] Uh oh.
-> Looks like this is **under construction**. 🤷 
-> **Check back soon!**
+> [!warning]  Looks like this is **under construction**. 🤷 
 
 ## Science
 
-- IB Biology AB 11 SL
+- 🔗 [[Biology IB SL 11|IB Biology AB 11 SL]]
 - IB Chemistry 12 AB SL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## Mathematics
 
-- Precalculus AB Honors
+- 🔗 [[Precalculus Honors|Precalculus AB Honors]]
 - AP Calculus AB/BC <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## English
 
-- IB English 12 ABC HL
+- 🔗 [[English IB HL 11|IB English 12 ABC HL]]
