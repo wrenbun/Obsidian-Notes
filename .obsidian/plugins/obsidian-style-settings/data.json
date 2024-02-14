@@ -1,0 +1,23 @@
+{
+  "o-theme-settings@@o-color-accent": "o-pink",
+  "o-theme-settings@@o-theme-dark": "o-shark-d",
+  "o-theme-settings@@o-theme-light": "o-shark-l",
+  "o-theme-settings@@o-notitle": true,
+  "o-theme-settings@@origami-breakpoints": false,
+  "o-theme-settings@@ul-left-collapse-btn-border": false,
+  "o-theme-settings@@o-bar": false,
+  "o-theme-settings@@ul-list-distinct": false,
+  "o-theme-settings@@ul-tag-bg": false,
+  "o-theme-settings@@o-float-tabs": false,
+  "o-theme-settings@@o-float-tabs-hover": false,
+  "o-theme-settings@@o-scrollbars": false,
+  "o-theme-settings@@ul-tag-border": false,
+  "o-theme-settings@@ul-prompt-grad": false,
+  "o-theme-settings@@ul-square-tabs": false,
+  "o-theme-settings@@o-font-general": "IBM Plex Sans",
+  "o-theme-settings@@o-font-title": "Inter",
+  "o-theme-settings@@s-ul-cards": true,
+  "o-theme-settings@@s-ul-cards-border": true,
+  "o-theme-settings@@s-ul-cards-shadow": false,
+  "o-theme-settings@@o-osxcode": false
+}
