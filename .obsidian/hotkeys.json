@@ -14,5 +14,7 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "templater-obsidian:insert-templater": []
 }

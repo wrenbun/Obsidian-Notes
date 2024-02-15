@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode2",
       "RiAttachmentLine",
       "RiAttachment2",
       "CoMap",
-      "RiFlaskLine",
-      "RiFlaskFill"
+      "RiFlaskLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +27,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "index.md": "👋",
   "101 IB Biology SL 11": "RiFlaskLine",
   "000 Components": "LiFileCog",
   "000 Components/Templates": "LiLayoutTemplate",
@@ -37,5 +36,7 @@
   "901 Blog": "RiQuestionLine",
   "201 Honors Precalculus": "LiCalculator",
   "001 Maps": "CoMap",
-  "000 Components/Attachments": "RiAttachmentLine"
+  "000 Components/Attachments": "RiAttachmentLine",
+  "Welcome.md": "👋",
+  "902 Outputs": "LiCode2"
 }

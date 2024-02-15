@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "16dfec2b73becdf2"
+          }
+        ]
+      },
+      {
+        "id": "4db19af8c7ee6528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b104d2de9abc97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "16dfec2b73becdf2"
           }
         ]
       }
@@ -38,21 +58,6 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b6cffa6fd55ce135",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -81,6 +86,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b6cffa6fd55ce135",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -94,6 +114,29 @@
     "type": "split",
     "children": [
       {
+        "id": "ab0147dba86fba3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ff3ced63a0ea69f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b27522522ae4fcd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "36a12b8511fe3e83",
         "type": "tabs",
         "children": [
@@ -103,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -139,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,22 +227,31 @@
   },
   "active": "e34891f47dee0374",
   "lastOpenFiles": [
+    "201 Honors Precalculus/Chapter 6 Formulas.md",
+    "Welcome.md",
     "001 Maps/Honors Precalculus.md",
+    "101 IB Biology SL 11/Sexual Reproduction.md",
     "001 Maps/IB Biology 11 SL.md",
     "001 Maps/IB English 11 HL.md",
-    "901 Blog/Implement Quartz.md",
+    "902 Outputs/Recent new notes.md",
+    "902 Outputs/Recently edited.md",
+    "902 Outputs/Blog content.md",
     "000 Components/Templates/General Note Template.md",
-    "index.md",
+    "Untitled 1.md",
+    "000 Components/Templates/Update Publish Files.md",
+    "901 Blog/Untitled.md",
+    "Recently edited.md",
+    "Recent new files.md",
+    "902 Outputs",
+    "000 Components/Attachments/Notes",
+    "000 Components/Attachments/Site Style",
+    "901 Blog/Implement Quartz.md",
     "000 Components/Attachments",
-    "201 Honors Precalculus/Untitled.md",
     "001 Maps",
     "LICENSE",
     "301 IB English HL 11",
     "202 AP Calculus",
     "201 Honors Precalculus",
-    "102 IB Chemistry SL 12",
-    "101 IB Biology SL 11",
-    "901 Blog",
-    "000 Components/Templates"
+    "102 IB Chemistry SL 12"
   ]
 }

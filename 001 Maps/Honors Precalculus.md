@@ -1,11 +1,14 @@
 ---
 title: Honors Precalculus
-draft: false
+publish: true
 tags:
   - map
   - math/precalc
 date: 2024-02-13 23:21
-updated: 2024-02-15T08:37:03-06:00
+updated: 2024-02-15T09:12:11-06:00
+description: 
+cover: 
+permalink: 
 ---
 
 # About this course
@@ -49,7 +52,7 @@ SORT file.name ASC
 
 ## Unit 3: The Trigonometric Functions
 
-This relates to **Chapter 5** of the textbook.****
+This relates to **Chapter 5** of the textbook.
 
 ```dataview
 table tags as "Tags"

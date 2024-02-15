@@ -1,7 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Origami",
+  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "baseFontSize": 16,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "S - Embed Adjustments",
+    "extended-colorschemes"
+  ]
 }
