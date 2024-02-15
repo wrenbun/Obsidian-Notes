@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        repo: ["kaedekaneko/Obsidian-Notes"]
+        repo: ["kaedekaneko/quartz-pub"]
     steps:
       - name: Push to repo
         uses: peter-evans/repository-dispatch@v1
