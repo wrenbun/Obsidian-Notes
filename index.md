@@ -1,9 +1,9 @@
 ---
-title: index
+title: Welcome
 draft: false
 tags: 
 date: 2024-02-13T20:20:14-06:00
-updated: 2024-02-14T12:58:25-06:00
+updated: 2024-02-14T20:24:15-06:00
 ---
 
 > [!summary] About this vault/site
@@ -25,17 +25,17 @@ Find quick access to some major topics I cover below.
 
 ## Science
 
-- 🔗 [[101 IB Biology SL 11/index|IB Biology AB 11 SL]]
-- IB Chemistry 12 AB SL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
+- 🔗 [[101 IB Biology SL 11/index|IB Biology 11 SL]]
+- IB Chemistry 12 SL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## Mathematics
 
-- 🔗 [[201 Honors Precalculus/index|Precalculus AB Honors]]
+- 🔗 [[201 Honors Precalculus/index|Honors Precalculus]]
 - AP Calculus AB/BC <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## English
 
-- 🔗 [[301 IB English HL 11/index|IB English 11 ABC HL]]
+- 🔗 [[301 IB English HL 11/index|IB English 11 HL]]
 
 ---
 
