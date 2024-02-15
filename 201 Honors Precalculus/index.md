@@ -48,10 +48,7 @@ SORT file.name ASC
 
 ## Unit 3: The Trigonometric Functions 
 
-This relates to **Chapter 5** of the textbook.
-
-> [!todo]
-> Notes for this unit will be done soon.
+This relates to **Chapter 5** of the textbook.****
 
 ```dataview
 table tags as "Tags"
