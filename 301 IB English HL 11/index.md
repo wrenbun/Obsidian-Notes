@@ -1,5 +1,5 @@
 ---
-title: IB English HL 11
+title: index
 draft: false
 tags:
   - map

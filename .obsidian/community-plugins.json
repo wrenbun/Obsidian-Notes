@@ -15,5 +15,6 @@
   "obsidian-discordrpc",
   "emoji-shortcodes",
   "templater-obsidian",
-  "frontmatter-modified-date"
+  "frontmatter-modified-date",
+  "obsidian-linter"
 ]

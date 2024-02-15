@@ -1,5 +1,5 @@
 ---
-title: Honors Precalculus
+title: index
 draft: false
 tags:
   - map
@@ -32,6 +32,7 @@ from "201 Honors Precalculus"
 WHERE contains(tags, "math/precalc/unit/1")
 SORT file.name ASC
 ```
+
 ## Unit 2: Conics
 
 This relates to **Chapter 10** of the textbook.
@@ -46,7 +47,7 @@ WHERE contains(tags, "math/precalc/unit/2")
 SORT file.name ASC
 ```
 
-## Unit 3: The Trigonometric Functions 
+## Unit 3: The Trigonometric Functions
 
 This relates to **Chapter 5** of the textbook.****
 

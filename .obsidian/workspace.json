@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "201 Honors Precalculus/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "201 Honors Precalculus/index.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "50f3ca14904966fc",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "201 Honors Precalculus/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "201 Honors Precalculus/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "201 Honors Precalculus/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,14 +201,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "07bf0af927a2db2a",
+  "active": "e34891f47dee0374",
   "lastOpenFiles": [
+    "000 Components/Templates/General Note Template.md",
+    "101 IB Biology SL 11/index.md",
+    "301 IB English HL 11/index.md",
+    "901 Blog/Implement Quartz.md",
     "201 Honors Precalculus/index.md",
     "index.md",
-    "301 IB English HL 11/index.md",
-    "101 IB Biology SL 11/index.md",
-    "901 Blog/Implement Quartz.md",
-    "000 Components/Templates/General Note Template.md",
     "LICENSE",
     "301 IB English HL 11",
     "202 AP Calculus",

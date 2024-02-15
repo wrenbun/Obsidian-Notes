@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: index
 draft: false
 tags: 
 date: 2024-02-13T20:20:14-06:00
