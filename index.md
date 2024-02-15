@@ -25,17 +25,17 @@ Find quick access to some major topics I cover below.
 
 ## Science
 
-- 🔗 [[101 IB Biology SL 11/index|IB Biology 11 SL]]
+- 🔗 [[IB Biology 11 SL|IB Biology 11 SL]]
 - IB Chemistry 12 SL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## Mathematics
 
-- 🔗 [[201 Honors Precalculus/index|Honors Precalculus]]
+- 🔗 [[001 Maps/Honors Precalculus|Honors Precalculus]]
 - AP Calculus AB/BC <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## English
 
-- 🔗 [[301 IB English HL 11/index|IB English 11 HL]]
+- 🔗 [[IB English 11 HL|IB English 11 HL]]
 
 ---
 

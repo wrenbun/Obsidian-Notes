@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAttachmentLine",
+      "RiAttachment2",
+      "CoMap",
       "RiFlaskLine",
-      "RiFlaskFill",
-      "LiMicroscope",
-      "LiCalculator",
-      "CoChartBarVertical01"
+      "RiFlaskFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,7 @@
   "202 AP Calculus": "CoChartBarVertical01",
   "301 IB English HL 11": "LiBookKey",
   "901 Blog": "RiQuestionLine",
-  "201 Honors Precalculus": "LiCalculator"
+  "201 Honors Precalculus": "LiCalculator",
+  "001 Maps": "CoMap",
+  "000 Components/Attachments": "RiAttachmentLine"
 }

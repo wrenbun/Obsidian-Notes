@@ -5,7 +5,7 @@ tags:
   - map
   - math/precalc
 date: 2024-02-13 23:21
-updated: 2024-02-14T20:30:58
+updated: 2024-02-15T08:37:03-06:00
 ---
 
 # About this course

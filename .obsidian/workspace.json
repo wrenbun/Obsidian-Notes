@@ -17,27 +17,7 @@
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "77739bd89320b125"
-          }
-        ]
-      },
-      {
-        "id": "21ec193960117904",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07bf0af927a2db2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "77739bd89320b125"
+            }
           }
         ]
       }
@@ -107,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "50f3ca14904966fc",
@@ -191,26 +170,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
+      "templater-obsidian:Templater": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "templater-obsidian:Templater": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "e34891f47dee0374",
   "lastOpenFiles": [
-    "201 Honors Precalculus/index.md",
-    "201 Honors Precalculus/Untitled.md",
-    "000 Components/Templates/General Note Template.md",
-    "301 IB English HL 11/index.md",
-    "index.md",
+    "001 Maps/Honors Precalculus.md",
+    "001 Maps/IB Biology 11 SL.md",
+    "001 Maps/IB English 11 HL.md",
     "901 Blog/Implement Quartz.md",
-    "101 IB Biology SL 11/index.md",
+    "000 Components/Templates/General Note Template.md",
+    "index.md",
+    "000 Components/Attachments",
+    "201 Honors Precalculus/Untitled.md",
+    "001 Maps",
     "LICENSE",
     "301 IB English HL 11",
     "202 AP Calculus",
@@ -218,8 +200,6 @@
     "102 IB Chemistry SL 12",
     "101 IB Biology SL 11",
     "901 Blog",
-    "000 Components/Templates",
-    "000 Components/Templates",
-    "001. Maps"
+    "000 Components/Templates"
   ]
 }
