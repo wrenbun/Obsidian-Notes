@@ -1,5 +1,5 @@
 ---
-title: Quartz Implementation
+title: Implement Quartz
 draft: false
 tags:
   - quartz

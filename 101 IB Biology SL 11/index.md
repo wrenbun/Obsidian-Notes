@@ -1,5 +1,5 @@
 ---
-title: IB Biology AB SL 11
+title: index
 draft: false
 tags:
   - map
