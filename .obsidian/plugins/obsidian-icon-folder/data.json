@@ -32,8 +32,8 @@
   "000 Components": "LiFileCog",
   "000 Components/Templates": "LiLayoutTemplate",
   "102 IB Chemistry SL 12": "LiMicroscope",
-  "201 Honors Precalculus": "LiCalculator",
   "202 AP Calculus": "CoChartBarVertical01",
   "301 IB English HL 11": "LiBookKey",
-  "901 Blog": "RiQuestionLine"
+  "901 Blog": "RiQuestionLine",
+  "201 Honors Precalculus": "LiCalculator"
 }
