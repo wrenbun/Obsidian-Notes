@@ -3,7 +3,7 @@ publish: true
 tags: 
 date: 2024-02-13T20:20:14-06:00
 updated: 2024-02-15T14:08:30-06:00
-description: Home page for Wren's Notebase
+description: "Home page for Wren's Notebase"
 cover: 
 permalink: home
 ---

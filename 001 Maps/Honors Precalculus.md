@@ -5,7 +5,7 @@ tags:
   - map
   - math/precalc
 date: 2024-02-13 23:21
-updated: 2024-02-15T09:12:11-06:00
+updated: 2024-02-23T09:33:53-06:00
 description: 
 cover: 
 permalink: 
@@ -65,9 +65,8 @@ SORT file.name ASC
 
 This relates to **Chapter 6** of the textbook.
 
-```dataview
-table tags as "Tags"
-from "201 Honors Precalculus"
-WHERE contains(tags, "math/precalc/unit/4")
-SORT file.name ASC
-```
+### Introduction To Radians
+
+### Graphing Trigonometric Functions
+
+- [[Writing Trigonometric Functions]]

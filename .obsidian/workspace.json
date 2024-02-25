@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "mode": "source",
                 "source": true
               }
             },
             "group": "16dfec2b73becdf2"
+          },
+          {
+            "id": "01813d30e1b40525",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ]
       },
@@ -32,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "mode": "preview",
                 "source": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md"
               }
             }
           }
@@ -182,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,25 +237,29 @@
   },
   "active": "e34891f47dee0374",
   "lastOpenFiles": [
+    "201 Honors Precalculus/Graphing Trigonometric Functions.md",
+    "101 IB Biology SL 11/Pedigree Charts.md",
+    "101 IB Biology SL 11/Polygenetic Inheritance.md",
     "201 Honors Precalculus/Chapter 6 Formulas.md",
-    "Welcome.md",
-    "001 Maps/Honors Precalculus.md",
     "101 IB Biology SL 11/Sexual Reproduction.md",
-    "001 Maps/IB Biology 11 SL.md",
+    "201 Honors Precalculus/Writing Trigonometric Functions.md",
+    "001 Maps/Honors Precalculus.md",
     "001 Maps/IB English 11 HL.md",
+    "001 Maps/IB Biology 11 SL.md",
+    "Welcome.md",
+    "901 Blog/Implement Quartz.md",
+    "000 Components/Templates/Update Publish Files.md",
+    "000 Components/Templates/General Note Template.md",
     "902 Outputs/Recent new notes.md",
     "902 Outputs/Recently edited.md",
     "902 Outputs/Blog content.md",
-    "000 Components/Templates/General Note Template.md",
     "Untitled 1.md",
-    "000 Components/Templates/Update Publish Files.md",
     "901 Blog/Untitled.md",
     "Recently edited.md",
     "Recent new files.md",
     "902 Outputs",
     "000 Components/Attachments/Notes",
     "000 Components/Attachments/Site Style",
-    "901 Blog/Implement Quartz.md",
     "000 Components/Attachments",
     "001 Maps",
     "LICENSE",

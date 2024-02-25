@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 %% update via "Update Publish Files" template %% 
 
 | Note                                               | Added        |

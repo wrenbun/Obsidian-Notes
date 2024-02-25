@@ -1,8 +1,8 @@
 ---
 publish: true
-tags: bio/unit/D3/1, bio/topic/reproduction
+tags: bio/unit/D3/1, bio/topic/reproduction, note
 date: 2024-02-15 10:27
-updated: 2024-02-15T11:06:23-06:00
+updated: 2024-02-22T17:14:46-06:00
 description: 
 cover: 
 ---
