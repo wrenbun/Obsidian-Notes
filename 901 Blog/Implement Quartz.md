@@ -1,12 +1,14 @@
 ---
-title: Implement Quartz
-draft: false
+publish: true
 tags:
   - quartz
   - vault
 date: 2024-02-14 00:00
-updated: 2024-02-14T10:25:15-06:00
+updated: 2024-02-15T08:40:19-06:00
 ---
+
+> [!Info]
+> In the end, <u>I decided not to use quartz.</u> I decided to use obsidian publish to control my note site instead, due to the tighter integrations. However, I will reconsider this when I wish to have even more customizability with my notes.
 
 # Objective
 

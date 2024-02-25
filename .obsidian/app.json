@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "livePreview": false,
   "showInlineTitle": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "000 Components/Attachments/Notes"
 }

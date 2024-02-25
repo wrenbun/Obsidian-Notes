@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiFlaskLine",
-      "RiFlaskFill",
-      "LiMicroscope",
-      "LiCalculator",
-      "CoChartBarVertical01"
+      "LiCode2",
+      "RiAttachmentLine",
+      "RiAttachment2",
+      "CoMap",
+      "RiFlaskLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +27,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "index.md": "👋",
   "101 IB Biology SL 11": "RiFlaskLine",
   "000 Components": "LiFileCog",
   "000 Components/Templates": "LiLayoutTemplate",
@@ -35,5 +34,9 @@
   "202 AP Calculus": "CoChartBarVertical01",
   "301 IB English HL 11": "LiBookKey",
   "901 Blog": "RiQuestionLine",
-  "201 Honors Precalculus": "LiCalculator"
+  "201 Honors Precalculus": "LiCalculator",
+  "001 Maps": "CoMap",
+  "000 Components/Attachments": "RiAttachmentLine",
+  "Welcome.md": "👋",
+  "902 Outputs": "LiCode2"
 }

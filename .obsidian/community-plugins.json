@@ -9,12 +9,16 @@
   "highlightr-plugin",
   "obsidian-dictionary-plugin",
   "cmenu-plugin",
-  "quick-latex",
   "obsidian-style-settings",
   "obsidian-annotator",
   "obsidian-discordrpc",
   "emoji-shortcodes",
   "templater-obsidian",
   "frontmatter-modified-date",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-functionplot",
+  "obsidian-latex-environments",
+  "obsidian-latex-suite",
+  "obsidian-latex",
+  "image-converter"
 ]

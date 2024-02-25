@@ -1,9 +1,11 @@
 ---
-title: Welcome
-draft: false
+publish: true
 tags: 
 date: 2024-02-13T20:20:14-06:00
-updated: 2024-02-14T20:24:15-06:00
+updated: 2024-02-15T14:08:30-06:00
+description: "Home page for Wren's Notebase"
+cover: 
+permalink: home
 ---
 
 > [!summary] About this vault/site
@@ -25,20 +27,24 @@ Find quick access to some major topics I cover below.
 
 ## Science
 
-- 🔗 [[101 IB Biology SL 11/index|IB Biology 11 SL]]
+- 🔗 [[IB Biology 11 SL|IB Biology 11 SL]]
 - IB Chemistry 12 SL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## Mathematics
 
-- 🔗 [[201 Honors Precalculus/index|Honors Precalculus]]
+- 🔗 [[001 Maps/Honors Precalculus|Honors Precalculus]]
 - AP Calculus AB/BC <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ## English
 
-- 🔗 [[301 IB English HL 11/index|IB English 11 HL]]
+- 🔗 [[IB English 11 HL|IB English 11 HL]]
+- 🔗 IB English 12 HL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
+
+## History
+
+- 🔗IB History 12 HL <mark style="background: #FFB8EBA6;">**Upcoming**</mark>
 
 ---
 
-# Most Recent Notes
-
-#todo
+# Recently Edited
+![[Recently edited|no-title]]

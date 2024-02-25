@@ -1,11 +1,14 @@
 ---
 title: Honors Precalculus
-draft: false
+publish: true
 tags:
   - map
   - math/precalc
 date: 2024-02-13 23:21
-updated: 2024-02-14T20:30:58
+updated: 2024-02-23T09:33:53-06:00
+description: 
+cover: 
+permalink: 
 ---
 
 # About this course
@@ -49,7 +52,7 @@ SORT file.name ASC
 
 ## Unit 3: The Trigonometric Functions
 
-This relates to **Chapter 5** of the textbook.****
+This relates to **Chapter 5** of the textbook.
 
 ```dataview
 table tags as "Tags"
@@ -62,9 +65,8 @@ SORT file.name ASC
 
 This relates to **Chapter 6** of the textbook.
 
-```dataview
-table tags as "Tags"
-from "201 Honors Precalculus"
-WHERE contains(tags, "math/precalc/unit/4")
-SORT file.name ASC
-```
+### Introduction To Radians
+
+### Graphing Trigonometric Functions
+
+- [[Writing Trigonometric Functions]]

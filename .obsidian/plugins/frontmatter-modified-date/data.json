@@ -2,7 +2,8 @@
   "frontmatterProperty": "updated",
   "momentFormat": "",
   "excludedFolders": [
-    "000. Components"
+    "000 Components",
+    "902 Outputs"
   ],
   "useKeyupEvents": true,
   "onlyUpdateExisting": false,

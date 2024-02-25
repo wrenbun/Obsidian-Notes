@@ -13,31 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "77739bd89320b125"
+            "group": "16dfec2b73becdf2"
+          },
+          {
+            "id": "01813d30e1b40525",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ]
       },
       {
-        "id": "21ec193960117904",
+        "id": "4db19af8c7ee6528",
         "type": "tabs",
         "children": [
           {
-            "id": "07bf0af927a2db2a",
+            "id": "5b104d2de9abc97d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "77739bd89320b125"
+            "group": "16dfec2b73becdf2"
           }
         ]
       }
@@ -58,21 +68,6 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "b6cffa6fd55ce135",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -101,19 +96,56 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b6cffa6fd55ce135",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "50f3ca14904966fc",
     "type": "split",
     "children": [
+      {
+        "id": "ab0147dba86fba3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ff3ced63a0ea69f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b27522522ae4fcd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
       {
         "id": "36a12b8511fe3e83",
         "type": "tabs",
@@ -124,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md"
               }
             }
           }
@@ -160,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "201 Honors Precalculus/Writing Trigonometric Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,35 +223,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
+      "templater-obsidian:Templater": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "templater-obsidian:Templater": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
   "active": "e34891f47dee0374",
   "lastOpenFiles": [
-    "201 Honors Precalculus/index.md",
-    "201 Honors Precalculus/Untitled.md",
-    "000 Components/Templates/General Note Template.md",
-    "301 IB English HL 11/index.md",
-    "index.md",
+    "201 Honors Precalculus/Graphing Trigonometric Functions.md",
+    "101 IB Biology SL 11/Pedigree Charts.md",
+    "101 IB Biology SL 11/Polygenetic Inheritance.md",
+    "201 Honors Precalculus/Chapter 6 Formulas.md",
+    "101 IB Biology SL 11/Sexual Reproduction.md",
+    "201 Honors Precalculus/Writing Trigonometric Functions.md",
+    "001 Maps/Honors Precalculus.md",
+    "001 Maps/IB English 11 HL.md",
+    "001 Maps/IB Biology 11 SL.md",
+    "Welcome.md",
     "901 Blog/Implement Quartz.md",
-    "101 IB Biology SL 11/index.md",
+    "000 Components/Templates/Update Publish Files.md",
+    "000 Components/Templates/General Note Template.md",
+    "902 Outputs/Recent new notes.md",
+    "902 Outputs/Recently edited.md",
+    "902 Outputs/Blog content.md",
+    "Untitled 1.md",
+    "901 Blog/Untitled.md",
+    "Recently edited.md",
+    "Recent new files.md",
+    "902 Outputs",
+    "000 Components/Attachments/Notes",
+    "000 Components/Attachments/Site Style",
+    "000 Components/Attachments",
+    "001 Maps",
     "LICENSE",
     "301 IB English HL 11",
     "202 AP Calculus",
     "201 Honors Precalculus",
-    "102 IB Chemistry SL 12",
-    "101 IB Biology SL 11",
-    "901 Blog",
-    "000 Components/Templates",
-    "000 Components/Templates",
-    "001. Maps"
+    "102 IB Chemistry SL 12"
   ]
 }
